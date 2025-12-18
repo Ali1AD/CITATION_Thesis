@@ -26,6 +26,8 @@ CITATION REQUEST:
 These videos are supplemental material. Please cite the main thesis, not these videos.
 Use the citation in CITATION.bib file.
 
+**Code Availability**: The simulation code developed for this thesis is available from the corresponding author upon reasonable request.
+
 
 
 
